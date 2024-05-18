@@ -15,9 +15,9 @@ O objetivo deste livro digital é introduzir a importantes bibliotecas a inician
 
 ## 📘 Acesse a versão que deseja ler
 
-➡️[Versão em português]()
+➡️[Versão em português](https://github.com/efms25/react-skyforge-coding-ebook/blob/main/output/skyforge%20-%20Edi%C3%A7%C3%A3o%20Brasileira.pdf)
 
-➡️[English Version]()
+➡️[English Version](https://github.com/efms25/react-skyforge-coding-ebook/blob/main/output/skyforge%20-%20english%20edition.pdf)
 
 ## 💻 Tecnologias utilizadas
 
