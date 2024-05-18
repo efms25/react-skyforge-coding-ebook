@@ -9,7 +9,7 @@
 # Skyforge Coding
 > ℹ️ **NOTE:** Este ebook foi produzido por um humano em colaboração com uma IA. Projeto submetido como entregável de atividade para a plataforma [DIO](https://dio.me), sob instrução do professor [Felipe Aguiar](https://github.com/felipeAguiarCode).
 
-👨🏽‍💻 Autor: Eric Santan
+👨🏽‍💻 Autor: Eric Santana
 
 O objetivo deste livro digital é introduzir a importantes bibliotecas a iniciantes em React.js
 
